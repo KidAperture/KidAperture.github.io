@@ -1,9 +1,10 @@
 ---
+layout: post
 title: "First Post"
+author: Rick
 date: 2025-06-01
 categories: [photography]
 tags: [guns, coffee]
-layout: post
 image: coffee_guns.JPG
 ---
 
