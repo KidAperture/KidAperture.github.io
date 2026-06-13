@@ -1,3 +1,10 @@
+---
+title: "The Octave of St. Germain"
+date: 2026-06-13
+categories: [Writing, Novel, Story]
+tags: [Industrial Noir, Media Horror, Surrealism, long form fiction, apophenia]
+image: Tower_buildings.jpg
+---
 # The Geometry of the Corridor
 
 04:12 PST. West Colton Yard.
