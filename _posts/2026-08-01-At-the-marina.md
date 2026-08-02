@@ -1,8 +1,8 @@
 ---
-title: "The Marina Apron"
+title: "At The Marinia"
 date: 2026-08-01
 categories: [Daily, Lifestyle]
-tags: [Marina, iPhone, life]
-image: 2026.07.3118.39.322026-07-31-00000001.jpg
+tags: [iPhone]
+image: 2026-07-31.jpg
 ---
-Water rises and falls.
+Simple water photo.
