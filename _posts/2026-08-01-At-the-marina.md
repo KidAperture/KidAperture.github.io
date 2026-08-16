@@ -1,5 +1,5 @@
 ---
-title: "At The Marinia"
+title: "At The Marina"
 date: 2026-08-01
 categories: [Daily, Lifestyle]
 tags: [iPhone]
