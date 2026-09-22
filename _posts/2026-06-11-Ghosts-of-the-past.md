@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Spotting a Former Circuit City"
 date: 2026-06-11
 categories: [Architecture, Urban Exploration, Retail History]
