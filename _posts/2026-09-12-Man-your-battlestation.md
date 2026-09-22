@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Man your Battlestation"
 date: 2026-09-12
 categories: [Personal Reflections, Cultural Commentary, Memory]
